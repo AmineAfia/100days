@@ -1,3 +1,5 @@
+### Algorithms Description [link](https://medium.com/100-days-of-algorithms/latest)
+
 ### 100 days of algorithms
 
 This repository contains notebooks with live code to accompany [100 days of algorithms](https://medium.com/100-days-of-algorithms) challenge.
